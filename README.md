@@ -23,7 +23,7 @@ An Obsidian plugin that helps you select and insert Ayahs (verses) from the Qura
 
 ## Usage
 
--   Open the Quran modal by clicking the book icon in the ribbon or selecting the `Insert Ayah` command from the [Command Palette](https://help.obsidian.md/Plugins/Command+palette).
+-   Open the Quran modal by clicking the book icon in the ribbon or selecting the `Insert Ayah` or `Fuzzy Find Ayah` commands from the [Command Palette](https://help.obsidian.md/Plugins/Command+palette).
 -   In the modal, choose the Surah by name or number.
 -   Browse or fuzzy search for the desired Ayah.
 
